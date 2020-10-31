@@ -33,9 +33,9 @@ We have 3 datasets:
  References : 
 <br> https://towardsdatascience.com/handling‐imbalanced‐datasets‐in‐machine‐learning‐7a0e84220f28  
 <br> https://scikit‐learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html 
--> https://aws.amazon.com/blogs/machine‐learning/simplify‐machine‐learning‐withxgboost‐and‐amazon‐sagemaker/
--> http://uc‐r.github.io/gbm_regression
--> https://www.analyticsvidhya.com/blog/2017/08/catboost‐automated‐categorical‐data/ 
--> https://en.wikipedia.org/wiki/Receiver_operating_characteristic
--> https://www.kaggle.com/arthurtok/introduction‐to‐ensembling‐stacking‐in‐python
--> https://stackoverflow.com/questions/10373660/converting‐a‐pandas‐groupby‐objectto‐dataframe
+<br> https://aws.amazon.com/blogs/machine‐learning/simplify‐machine‐learning‐withxgboost‐and‐amazon‐sagemaker/
+<br> http://uc‐r.github.io/gbm_regression
+<br> https://www.analyticsvidhya.com/blog/2017/08/catboost‐automated‐categorical‐data/ 
+<br> https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+<br> https://www.kaggle.com/arthurtok/introduction‐to‐ensembling‐stacking‐in‐python
+<br> https://stackoverflow.com/questions/10373660/converting‐a‐pandas‐groupby‐objectto‐dataframe
