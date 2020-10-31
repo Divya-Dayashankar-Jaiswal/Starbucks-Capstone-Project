@@ -5,6 +5,8 @@
 
 *This is my work for the final work of the Nanodegree. The goal of the project is to analyze historical data about Starbucks' app usage in order to develop an algorithm that finds the most suiting offer type for each customer.*
 
+#### Udacity Machine Learning Engineer Nanodegree Program Capstone Project Starbucks Capstone Challenge Project report in pdf Format. Data Sets included in json format Proposal report included in pdf format and the review as well. https://review.udacity.com/#!/reviews/2571182 The Complete Code in “ipynb” format ####
+
 We have 3 datasets:
 
 -> Portfolio: it contains the list of all available offers to propose to the customer. Each offer can be a discount, a BOGO (Buy One Get One) or Informational (no real offer)
